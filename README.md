@@ -1,2 +1,2 @@
 # internet-of-things
-My IoT playground
+My Internet of Things playground
