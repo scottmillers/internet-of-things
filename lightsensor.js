@@ -1,6 +1,6 @@
-﻿var tsl2561 = require('./tsl2561.js');
+﻿
 var async = require('async');
-
+var tsl2561 = require('./tsl2561.js');
 
 
 var nrOfSec = 2000;

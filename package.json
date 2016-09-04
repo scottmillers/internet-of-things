@@ -1,0 +1,10 @@
+{
+  "name": "internet-of-things",
+  "version": "0.0.0",
+  "description": "An example to send temperature, humidity and light data to Azure",
+  "author": "Scott Miller",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-debug": "^2.1.2"
+  }
+}

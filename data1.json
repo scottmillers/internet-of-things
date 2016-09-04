@@ -1,0 +1,16 @@
+{"sensorRun":
+[
+{
+"time": "2012-04-23T18:25:43.511Z",
+"temperature" : "57",
+"humidity":"77",
+"lux": "44"
+},
+{
+"time": "2012-04-23T18:25:43.511Z",
+"temperature" : "57",
+"humidity":"77",
+"lux": "44"
+},
+]
+}
